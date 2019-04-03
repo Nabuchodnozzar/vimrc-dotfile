@@ -1,4 +1,4 @@
-"Deant's vimrc config file
+"Nabuchodnozzar's vimrc config file
 
 "(based on gudemare's original vimrc)
 
